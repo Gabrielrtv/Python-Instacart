@@ -11,10 +11,10 @@ To uncover more information about their sales patterns for Instacart company. Th
 
 ## Tools required.
 
-Anaconda
-Jupyter Notebook
-Pandas
-Seaborn
-Matplotlib
-Scipy
-Numpy
+### Anaconda
+### Jupyter Notebook
+### Pandas
+### Seaborn
+### Matplotlib
+### Scipy
+### Numpy
