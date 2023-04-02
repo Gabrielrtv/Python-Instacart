@@ -7,14 +7,15 @@ To uncover more information about their sales patterns for Instacart company. Th
 
 ## Data
 
-### [Data required] (Uploading customers.csv…)
+### Data [Download the customers CVS file](./customers.csv)
+
 
 ## Tools required.
 
 #### Anaconda
-### Jupyter Notebook
-### Pandas
-### Seaborn
-### Matplotlib
-### Scipy
-### Numpy
+#### Jupyter Notebook
+#### Pandas
+#### Seaborn
+#### Matplotlib
+#### Scipy
+#### Numpy
