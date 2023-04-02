@@ -5,11 +5,6 @@
 ## Objective
 To uncover more information about their sales patterns for Instacart company. This company is an online grocery store that operates through an app. It also has very good sales. The objective is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest better strategies.
 
-## Data
-
-### Data [Download the customers CVS file](./customers.csv)
-
-
 ## Tools required.
 
 #### Anaconda
