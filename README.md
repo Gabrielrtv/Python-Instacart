@@ -11,7 +11,7 @@ To uncover more information about their sales patterns for Instacart company. Th
 
 ## Tools required.
 
-### Anaconda
+#### Anaconda
 ### Jupyter Notebook
 ### Pandas
 ### Seaborn
